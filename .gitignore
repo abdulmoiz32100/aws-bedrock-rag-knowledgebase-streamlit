@@ -1,0 +1,21 @@
+# Virtual Environment
+my_venv/
+venv/
+ENV/
+
+# Sensitive AWS Credentials (BAHUT ZAROORI)
+.env
+*.csv
+rag_chatbot_user_accessKeys.csv
+rag_chatbot_user_credentials.csv
+
+# Temporary Word & Office files
+~$*
+*.docx
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Personal notes (optional)
+post.txt
