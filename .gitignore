@@ -3,7 +3,7 @@ my_venv/
 venv/
 ENV/
 
-# Sensitive AWS Credentials (BAHUT ZAROORI)
+# Sensitive AWS Credentials 
 .env
 *.csv
 rag_chatbot_user_accessKeys.csv
